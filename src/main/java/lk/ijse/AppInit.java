@@ -12,8 +12,5 @@ public class AppInit {
         ctx.refresh();
 
 
-       ConfigurableListableBeanFactory configurableListableBeanFactory = ctx.getBeanFactory();
-
-        ctx.registerShutdownHook();
     }
 }
