@@ -2,7 +2,6 @@ package lk.ijse;
 
 import lk.ijse.Config.Config;
 
-import org.springframework.beans.factory.config.ConfigurableListableBeanFactory;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class AppInit {
